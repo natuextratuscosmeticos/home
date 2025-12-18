@@ -1,5 +1,5 @@
 // URL do seu Google Apps Script
-const API_URL = "https://script.google.com/macros/s/AKfycbwxMWWHMIw6amYqxzyjAqt0MyTZf1ASMGosEcK6OzyKN-_ljUm_s0XgHc3Ti3hflJAY/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbxksEVgWVfKwWSQQdoBO18ViUcQKIVmXTYbT5GJE1EjcDKdhghXkDTsVMgXD4Zq0_jO/exec";
 
 // URL base do InfinitePay
 const INFINITE_BASE = "https://checkout.infinitepay.io/audaces?items=";
